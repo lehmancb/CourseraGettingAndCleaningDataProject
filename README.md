@@ -4,8 +4,8 @@
  
 ## Files included - 
 
-* ```run_analysis.R``` Main script file to create '''tidydata.txt'''
-* ```tidydata.txt``` Copy of final clean data set created by '''run_analysis.R'''
+* ```run_analysis.R``` Main script file to create ```tidydata.txt```
+* ```tidydata.txt``` Copy of final clean data set created by ```run_analysis.R```
 * ```CodeBook.MD``` CodeBook file to explain the methodology behind the getting and cleaning of the data set
 
 # Project Instructions
