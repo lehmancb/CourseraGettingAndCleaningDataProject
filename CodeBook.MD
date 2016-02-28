@@ -1,10 +1,3 @@
----
-title: "CodeBook"
-author: "Clint Lehman"
-date: "February 28, 2016"
-output: html_document
----
-
 # CodeBook
 
 This document describes the variables, data, and all transformations that were performed on the data to fufill the requirements of the assignment for Getting and Cleaning Data. Information about the project requirements can be found in the README.MD
@@ -69,7 +62,7 @@ There are 5 parts:
 * Requires windows based machine to download files automatically
 * Modify script file to change SETWD command to reflect a local directory of same type
 
-*Automatically:
+* Automatically:
 * Load train and test data for features with labels and create data set
 * Load train and test data for activities with labels and create data set
 * Load train and test data for subject and create data set
@@ -80,3 +73,10 @@ There are 5 parts:
 * Create final tidy data set as means for every unique subject activity
 * Write the data set tidydata.txt to working directory
 * Clean environment to remove working tables
+
+---
+title: "CodeBook"
+author: "Clint Lehman"
+date: "February 28, 2016"
+output: html_document
+---
